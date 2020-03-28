@@ -1,5 +1,4 @@
-This is brief description of the 2020 AIS Analytics challenge and the files attached highlight some of the technical 
-programming done to answer the proposed questions.
+# 2020 AIS Analytics challenge 
 
 Scholastic is a major international publishing, educational, and media company with a focus on books and educational materials 
 designed to support children’s literacy and cultivate a passion for reading and knowledge which will continue throughout life. 
@@ -12,10 +11,10 @@ snapshot of Scholastic’s sales between two separate distribution channels acro
 realistic scenario, the data presented is not fully cleaned and there are many additional interesting variables which it is the job
 of the analyst to identify and evaluate.
 
-The question that need to be answered are the ones shown below.
+**The questions that need to be answered are shown below.**
 
-What trends do you see in the data, among / demographics, genre/ theme, and price?
-What does the data suggest about Scholastic’s distribution channels, and how would you recommend structuring a distribution strategy?
-What other publically available data can you append (Census, state, region, etc.), to provide further insight?
-Formulate a unified strategy for marketing between the two channels.
-Where are there areas of significant overlap between the channels, and what strategy do you suggest to prevent unintentional competition between channels?
+1. What trends do you see in the data, among / demographics, genre/ theme, and price?
+2. What does the data suggest about Scholastic’s distribution channels, and how would you recommend structuring a distribution strategy?
+3. What other publically available data can you append (Census, state, region, etc.), to provide further insight?
+4. Formulate a unified strategy for marketing between the two channels.
+5. Where are there areas of significant overlap between the channels, and what strategy do you suggest to prevent unintentional competition between channels?
